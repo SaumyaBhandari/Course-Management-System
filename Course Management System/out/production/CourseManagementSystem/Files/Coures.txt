@@ -1,0 +1,10 @@
+Computer Science
+BCS
+Bachelors
+Science
+false
+Business Administration
+BBA
+Bachelors
+Management
+false
